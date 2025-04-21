@@ -1,7 +1,7 @@
 # Portfolio
 # Noah Lockley's Portfolio
 
-Welcome to my GitHub portfolio! Here, you'll find some of my best work and ongoing projects. As a **self-taught programmer** with a focus on **[Your Preferred Tech Stack/Language]**, I'm continually learning and improving my skills. I believe in writing clean, efficient, and well-documented code to solve real-world problems.
+Welcome to my GitHub portfolio! Here, you'll find some of my best work and ongoing projects. As a **self-taught programmer** with a focus on **Python**, I'm continually learning and improving my skills. I believe in writing clean, efficient, and well-documented code to solve real-world problems.
 
 ## About Me
 
