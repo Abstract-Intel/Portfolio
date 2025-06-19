@@ -5,7 +5,7 @@ Welcome to my GitHub portfolio! Here, you'll find some of my best work and ongoi
 
 ## About Me
 
-👨‍💻 I am passionate about AI, business, engineering, maths, psychology
+👨‍💻 I am passionate about AI, business, engineering, maths, psychology and french
 📚 Currently, I am focusing on building my knowledge in Generative AI, bioinformatics, psychology, computational neuroscince
 🎯 My goal is to build projects that are both creative and practical, while continuing to learn new concepts along the way.
 
