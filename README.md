@@ -10,15 +10,15 @@ Welcome to my GitHub portfolio! Here, you'll find some of my best work and ongoi
 🎯 My goal is to build projects that are both creative and practical, while continuing to learn new concepts along the way.
 
 ## GCSE Grades
-maths: 
-english:
-biology:
-chemistry:
-physics:
-french:
-geography:
-computer science:
-engineering:
+- maths: 
+- english:
+- biology:
+- chemistry:
+- physics:
+- french:
+- geography:
+- computer science:
+- engineering:
 
 ## Projects
 
