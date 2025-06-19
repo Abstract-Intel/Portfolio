@@ -55,7 +55,7 @@ I have done the big idea twice and from that gotten a silver stem award and came
 ## Contact Me
 
 Feel free to reach out to me through the following:
-- **Email**: abstract.intelligence22@gmail.com
+- **Email**: digitalprivacyisaright@gmail.com
 
 
 ## License
